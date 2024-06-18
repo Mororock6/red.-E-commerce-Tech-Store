@@ -71,10 +71,10 @@ Here are some screenshots of the website:
 
 ## Red Team
 
-- Abdulrhman (Me)
+- Amer (Me)
 - Ahmed
 - Ali
-- @Mororock6
+- @AYeagerr
 
 ## License
 
